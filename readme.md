@@ -16,15 +16,16 @@ p:ferizaj123
 
 
 <h3> To add: </h3>
-[x] - Design using boostrap
-[x] - Models and database migrations
-[x] - Generating product list dynamic from database
-[ ] - Creating a User/Customer by login signup
-[ ] - Adding Order in the database of the User
-[ ] - Adding multipule Order in the User database
-[ ] - Check out properties, payment validation
-[ ] - Shipping Address
-[ ] - Categories list, and products sort based on category
+[x] - Design using boostrap <br>
+[x] - Models and database migrations <br>
+[x] - Generating product list dynamic from database <br>
+[ ] - Creating a User/Customer by login signup <br>
+[ ] - Adding Order in the database of the User <br> 
+[ ] - Adding multipule Order in the User database <br>
+[ ] - Check out properties, payment validation <br>
+[ ] - Shipping Address <br>
+[ ] - Categories list, and products sort based on category <br>
+
 Categories list, and each product is appeared based on the category it belongs.
 
 So far:
