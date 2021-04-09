@@ -10,10 +10,6 @@ Data structure.
 We have Customer, Product, Order, OrderItem and Shipping address models that will be inserted in SQLite database of the project.
 
 
-Admin (super user) to see the database:
-u:electro
-p:ferizaj123
-
 
 <h3> On going steps </h3>
 [X]  Design using boostrap <br>
