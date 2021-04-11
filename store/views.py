@@ -79,10 +79,9 @@ def updatedItem(request):
 
     customer = request.user.customer
     product = Product.objects.get(id=productId)
-
-    # create the order if its not created, otherwise add the quantity
-    orderm, created = orderItem.objects.get_or_create(order=order, complete=False)
-    orderItem, created = orderItem.objects.get_or_create(order=order, product=product)
+    order, created = Order.objects.get_or_create(costumer=customer, complete=False)     # create the order if its not created, otherwise add the quantity
+    
+    orderItem, created = OrderItem.objects.get_or_create(order=order, product=product)
 
     if action == 'add':
         orderItem.quantity = (orderItem.quantity +1)
