@@ -26,5 +26,15 @@ We have Customer, Product, Order, OrderItem and Shipping address models that wil
 
 Categories list, and each product is appeared based on the category it belongs.
 
-So far:
+So far --> 
+
+Store demo:
 <img src="screenshot.png" alt="">
+
+
+Order Cart checkout:
+<img src="orderitems_total.png" alt="">
+
+
+Shipping :
+<img src="orderitems_total.png" alt="">
