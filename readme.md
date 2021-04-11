@@ -1,7 +1,7 @@
 # Electronic web shop
 
 Ecommerce website build in Django where user can log in and buy ittems.
-User can add an item many times, and comes back the added items will still be in the basket
+User can add an item many times, and comes back the added items will still be in the basket. Other than that user can remove items too.
 
 
 
@@ -36,4 +36,4 @@ Order Cart checkout:
 <img src="orderitems_total.png" alt="">
 
 
-Shipping :
+Shipping & Payment checkout:
