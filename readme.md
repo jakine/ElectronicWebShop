@@ -37,4 +37,3 @@ Order Cart checkout:
 
 
 Shipping :
-<img src="orderitems_total.png" alt="">
