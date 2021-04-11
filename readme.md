@@ -15,11 +15,11 @@ We have Customer, Product, Order, OrderItem and Shipping address models that wil
 [X]  Design using boostrap <br>
 [X]  Models and database migrations <br>
 [X]  Generating product list dynamic from database <br>
-[ ]  Creating a User/Customer by login signup <br>
-[ ]  Adding Order in the database of the User <br> 
-[ ]  Adding multipule Order in the User database <br>
-[ ]  Check out properties, payment validation <br>
-[ ]  Shipping Address <br>
+[X]  Creating a User/Customer by login signup <br>
+[X]  Adding Order in the database of the User <br> 
+[X]  Adding multipule Order in the User database <br>
+[X]  Check out properties, payment validation <br>
+[X]  Shipping Address <br>
 [ ]  Categories list, and products sort based on category <br>
 
 
