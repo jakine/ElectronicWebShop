@@ -3,11 +3,12 @@
 Ecommerce website build in Django where user can log in and buy ittems.
 User can add an item many times, and comes back the added items will still be in the basket. Other than that user can remove items too.
 
-Using AJAX to reload the page only when the item is remmoved or added in quantity.
+
 
 
 Data structure.
 We have Customer, Product, Order, OrderItem and Shipping address models that will be inserted in SQLite database of the project.
+Models controll the database, Ajax JS to handle the request submission from the user such as quantity of the items, or adding/removing in the chart and Bootstrap CSS for design.
 
 
 
